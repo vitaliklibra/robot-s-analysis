@@ -1,0 +1,20 @@
+body {
+	padding-bottom:15px;
+	padding-top:15px;
+}
+
+.bodytable {
+	margin: 15px;
+}
+
+#result {
+	margin-left: 15px;
+}
+
+th, tr:hover {
+  background-color: #F5F5F5;
+}
+
+td {
+	vertical-align: middle !Important; 
+}
